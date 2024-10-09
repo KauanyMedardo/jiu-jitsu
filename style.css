@@ -11,6 +11,6 @@ padding-top: 2em;
 display: flex;
 justify-content: center;
 }
-div{
-
+.chamada-texto{
+    padding-right: 10em;
 }
