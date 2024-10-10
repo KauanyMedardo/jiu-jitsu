@@ -12,5 +12,13 @@ display: flex;
 justify-content: center;
 }
 .chamada-texto{
-    padding-right: 10em;
+    padding-right: 6em;
+   
+}
+.chamada-texto h1{
+    font-size: 35px;
+    color: white;
+}
+img{
+    
 }
