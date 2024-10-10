@@ -30,11 +30,20 @@ header {
     color: white;
 }
 
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
 .categoria-video img {
-    height: 200px;
+    width: 450px;
+    height: 250px;
     object-fit: cover;
 }
-
+.categoria-video img:hover{
+    opacity: 1.0;
+    border: 3px solid #181e3a;
+}
 h2 {
     color: #546897;
     text-align: center;
